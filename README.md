@@ -22,3 +22,9 @@ Additional demo page inspired by visibait:
 
 - Local: [shreeafk.github.io/visibait.html](visibait.html)
 
+Direct links (live after you push to GitHub Pages):
+
+- Main page: https://shreeafk.github.io/
+- Valentine page: https://shreeafk.github.io/index.html
+- Memory demo: https://shreeafk.github.io/visibait.html
+
