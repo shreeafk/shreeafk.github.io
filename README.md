@@ -9,3 +9,11 @@ Steps to publish:
 3. After a few minutes, your site will be available at `https://shreeafk.github.io`.
 
 If you'd like, provide a GitHub personal access token and I can create the remote repository and push these files for you.
+
+Quick link to view the page locally:
+
+- Open the site: [shreeafk.github.io/index.html](index.html)
+
+When published to GitHub Pages the site will be available at:
+
+- https://shreeafk.github.io
