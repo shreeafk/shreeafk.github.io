@@ -17,3 +17,8 @@ Quick link to view the page locally:
 When published to GitHub Pages the site will be available at:
 
 - https://shreeafk.github.io
+
+Additional demo page inspired by visibait:
+
+- Local: [shreeafk.github.io/visibait.html](visibait.html)
+
